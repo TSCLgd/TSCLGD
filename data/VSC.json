@@ -1,10 +1,26 @@
 {
-    "id": 74803822,
-    "name": "Shitty A2Marbl",
-    "author": "chspchips",
+    "id": 68216438,
+    "name": "Shitty VSC",
+    "author": "Seebi",
     "creators": [],
-    "verifier": "iRaily",
-    "verification": "https://youtu.be/U21gyCuwCO8",
+    "verifier": "DarkAngel",
+    "verification": "https://youtu.be/1hWircQe6C8",
     "percentToQualify": 100,
-    "records": []
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Xiony",
+            "link": "https://youtu.be/_BnZrKDyH2w",
+            "percent": 100,
+            "FPS": 144
+        },
+        {
+            "user": "",
+            "link": "",
+            "percent": 100,
+            "FPS": 144
+        },
+        
+        }
+    ]
 }
